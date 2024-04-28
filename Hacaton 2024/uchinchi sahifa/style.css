@@ -1,0 +1,247 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    height: 100px;
+    background-color: white;
+    border-bottom: 1px solid green;
+}
+
+.logo img {
+    height: 35px;
+    margin-top: 30px;
+    margin-left: 80px;
+    
+}
+
+
+.logo form{
+    width: 500px;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+.logo form > input {
+    width: 400px;
+    border-radius: 7px;
+    padding: 4px;
+    border: 2px solid green;
+}
+.logo form > button {
+    width: 90px;
+    border-radius: 7px;
+    padding: 4px;
+    border: 2px solid green;
+    background-color: green;
+    color: white;
+}
+
+.sarl h1 {
+    font-family: Helvetica Now... ;
+    font-size: 40px;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+
+.sarl p {
+    font-family: Helvetica Now... ;
+    font-size: 30px;
+    margin-left: 80px;
+    color: #666;
+}
+
+.tosh {
+    width: 390px;
+    height: 300px; /* 300px edi */
+    background-color: #11b181;
+    color: white;
+    border-radius: 13px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.tosh p {
+    padding: 10px;
+    margin-left: 5px;
+    font-size: 25px;
+    font-family: Helvetica Now... ;
+}
+
+.tosh a > img {
+    display: inline-block;
+    margin-left: 320px;
+    height: 40px;
+}
+
+.tosh img { 
+    
+    display: inline-block;
+}
+ .sar a {
+    text-decoration: none;
+    margin-left: 150px;
+    color: white;
+    font-size: 20px;
+    padding: 30px;
+} 
+
+.ikras button {
+    padding: 50px;
+     width: 144px;
+    border-radius: 7px;
+    padding: 4px;
+    border: 2px solid green;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 200px;
+   
+}
+
+.ikras button > a {
+    text-decoration: none;
+    color: green;
+    font-family: Gilroy;
+
+}
+/* .bikras button {
+    padding: 50px;
+     width: 144px;
+    border-radius: 7px;
+    padding: 4px;
+    border: 2px solid green;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 200px;
+   
+}
+
+.bikras button > a {
+    text-decoration: none;
+    color: green;
+    font-family: Gilroy;
+
+} */
+
+.port img {
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 10px;
+    display: inline-block;
+    
+}
+
+.xiz button {
+    margin-left: 80px;
+    margin-top: 10px;
+    padding: 2px 100px;
+    font-size: 20px;
+    color: white;
+    background-color: #11b181;
+    border: 1px solid #11b181;
+    border-radius: 7px;
+}
+
+.but span > p {
+    margin-left: 80px;
+    margin-top: 15px;
+    padding: 2px 100px;
+    font-size: 15px;
+    color: black;
+    background-color: #dbdfe2;
+    text-align: left;
+    border-radius: 7px;
+}
+
+.biri {
+    position: relative;
+    float: left;
+    width: 300px;
+    background-color: #11b181;
+    border-radius: 10px;
+    height: 420px;
+    margin-left: 20px;
+}
+
+.ikk {
+    position: absolute;
+    float: left;
+    width: 300px;
+    background-color: #11b181;
+    border-radius: 10px;
+    height: 420px;
+    margin-left: 380px;
+}
+
+.uch {
+    position: absolute;
+    float: left;
+    width: 300px;
+    background-color: #11b181;
+    border-radius: 10px;
+    height: 420px;
+    margin-left: 740px;
+}
+.yan1 h1 {
+    padding: 5px;
+    margin: 10px;
+    font-size: 25px;
+    margin-left: 10px; 
+    color: white;
+}
+
+.yan1 img {
+    height: 35px;
+    margin-left: 0px;
+}
+
+.biri img {
+    margin: 0px 13px;
+    border-radius: 10px;
+}
+
+.ikk img {
+    margin: 0px 13px;
+    border-radius: 10px;
+}
+
+.uch img {
+    margin: 0px 13px;
+    border-radius: 10px;
+}
+
+.izoh p {
+    margin-left: 18px;
+    color: white;
+    margin-top: 0px;
+    margin-top: 6px;
+    font-size: 20px;
+}
+
+.izoh p > img {
+    display: block;
+    width: 264px;
+    border-radius: 10px;
+    
+    
+
+}
+
+.like img {
+    margin-top: 0px;
+    margin-left: 18px;
+    width: 65px;
+}
+
+.list-group {
+    margin-top: 20px;
+    margin-left: 80px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 1px solid green;
+}
+
+.list-group li {
+    border-bottom: 1px solid green;
+}
