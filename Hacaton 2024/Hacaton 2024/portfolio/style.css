@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    height: 100px;
+    background-color: white;
+    border-bottom: 1px solid green;
+}
+
+.logo img {
+    height: 35px;
+    margin-top: 30px;
+    margin-left: 80px;
+    
+}
+
+.yash img {
+    height: 36px;
+    margin-left: 110px;
+
+}
+

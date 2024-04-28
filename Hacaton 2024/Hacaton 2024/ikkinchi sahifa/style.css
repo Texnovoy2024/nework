@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    height: 100px;
+    background-color: white;
+    border-bottom: 1px solid green;
+}
+
+.logo img {
+    height: 35px;
+    margin-top: 30px;
+    margin-left: 80px;
+    
+}
+
+
+.logo form{
+    width: 500px;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+.logo form > input {
+    width: 400px;
+    border-radius: 7px;
+    padding: 4px;
+    border: 2px solid green;
+}
+.logo form > button {
+    width: 90px;
+    border-radius: 7px;
+    padding: 4px;
+    border: 2px solid green;
+    background-color: green;
+    color: white;
+}
+
+.orta h1 {
+    font-family: Helvetica Now... ;
+    font-size: 40px;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+
+.tosh {
+    width: 390px;
+    height: 300px; /* 300px edi */
+    background-color: #11b181;
+    color: white;
+    border-radius: 13px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.tosh p {
+    padding: 10px;
+    margin-left: 5px;
+    font-size: 25px;
+    font-family: Helvetica Now... ;
+}
+
+.tosh a > img {
+    position: relative;
+    float: right;
+    display: inline-block;
+    margin-right: 30px;
+    height: 50px;
+    margin-top: 140px;
+}
+
+ .sar a {
+    text-decoration: none;
+    margin-left: 150px;
+    color: white;
+    font-size: 20px;
+    padding: 30px;
+} 
+
+.ikras button {
+    padding: 50px;
+     width: 144px;
+    border-radius: 7px;
+    padding: 4px;
+    border: 2px solid green;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 200px;
+   
+}
+
+.ikras button > a {
+    text-decoration: none;
+    color: green;
+    font-family: Gilroy;
+
+}
+/* .bikras button {
+    padding: 50px;
+     width: 144px;
+    border-radius: 7px;
+    padding: 4px;
+    border: 2px solid green;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 200px;
+   
+}
+
+.bikras button > a {
+    text-decoration: none;
+    color: green;
+    font-family: Gilroy;
+
+} */
+
+.port img {
+    position: absolute;
+    float: right;
+    height: 160px;
+    margin-left: 20px;
+    margin-top: 50px;
+    display: inline-block;
+    
+}
